@@ -1,2 +1,6 @@
 # ChatBot
-ChatBot with deep learning using python
+
+* This ChatBot created by deep learning using python and LSTM
+
+* Chatting with machine just like human.
+
